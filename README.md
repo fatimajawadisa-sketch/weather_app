@@ -35,7 +35,7 @@ Date/Time: time and date observation in .csv.
 https://weatherapp-mcau2uhqknafgaupflsgko.streamlit.app/ 
 
 ## video ##
-!(https://youtu.be/gz15LITeCNw)
+https://youtu.be/gz15LITeCNw
 
 
 
