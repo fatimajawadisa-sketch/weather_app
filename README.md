@@ -31,6 +31,6 @@ Wind Speed_km/h: wind speed km/h
 
 Date/Time: time and date observation in .csv
 https://weatherapp-mcau2uhqknafgaupflsgko.streamlit.app/
-video(project1fatimajawad.mp4)
+
 ![](project1fatimajawad.mp4)
 
