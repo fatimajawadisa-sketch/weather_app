@@ -22,11 +22,11 @@ a streamlit app for logging, exploring, and analyzing weather observation with u
  LLM: AI generated weekly summary via an llm.
  
  ## Tool Used ##
- 1.python
- 2.streamlit
- 3.csv
- 4.API
- 5.LLM
+ 1.python.   
+ 2.streamlit.   
+ 3.csv.   
+ 4.API.  
+ 5.LLM.  
  
 ## Dataset format ##
 Temp_C: Temperature in C
