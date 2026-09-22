@@ -1,8 +1,8 @@
 import streamlit as st
 import datetime
 import pandas as pd
-from openai import OpenAI
-from dotenv import load_dotenv
+#from openai import OpenAI
+#from dotenv import load_dotenv
 import os
 
 def get_llm_response(prompt):
