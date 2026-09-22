@@ -29,11 +29,11 @@ a streamlit app for logging, exploring, and analyzing weather observation with u
  5.LLM.  
  
 ## Dataset format ##
-Temp_C: Temperature in C
-Weather: weather condition (text)
-Rel Hum_%: relative humidity (%)
-Wind Speed_km/h: wind speed km/h
-Date/Time: time and date observation in .csv
+Temp_C: Temperature in C.
+Weather: weather condition (text).
+Rel Hum_%: relative humidity (%).
+Wind Speed_km/h: wind speed km/h.
+Date/Time: time and date observation in .csv.
 
 ## streamlit app ##
 https://weatherapp-mcau2uhqknafgaupflsgko.streamlit.app/ 
