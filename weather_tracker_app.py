@@ -40,9 +40,9 @@ def get_llm_response(prompt):
     
 st.title("Weather Tracker ")
 
-video_file=open("project1fatimajawad.mp4","rb")
-video_bytes=video_file.read()
-st.video(video_bytes)
+#video_file= open("project1fatimajawad.mp4","rb")
+#video_bytes=video_file.read()
+#st.video(video_bytes)
 
 
 df = pd.read_csv('Weather_Dataset.csv')
