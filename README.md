@@ -21,17 +21,26 @@ a streamlit app for logging, exploring, and analyzing weather observation with u
  API:live weather lookup via WeatherAPI.
  LLM: AI generated weekly summary via an llm.
  
-
-
+ ### Tool Used ###
+ 1.python
+ 2.streamlit
+ 3.csv
+ 4.API
+ 5.LLM
+ 
 ## Dataset format ###
 Temp_C: Temperature in C
 Weather: weather condition (text)
 Rel Hum_%: relative humidity (%)
 Wind Speed_km/h: wind speed km/h
 
+### csv file ###
 Date/Time: time and date observation in .csv
+
+### streamlit app ###
 https://weatherapp-mcau2uhqknafgaupflsgko.streamlit.app/ 
 
+### video ###
 
 
 
