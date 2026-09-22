@@ -9,8 +9,8 @@ def get_llm_response(prompt):
     """
         LLM model API ,where the LLM is defined to be a personal  help in weatherand to suggest weather 
         """
-    load_dotenv()
-    open_api_key = os.getenv('openai_api_key')
+    #load_dotenv()
+    open_api_key = st.secrets.get("openai_api_key") #os.getenv('openai_api_key')
     if not open_api_key:
         raise RuntimeError("openai_api_key is not configured")
     
@@ -200,7 +200,7 @@ elif option.startswith('5.'):
     st.header('API Weather')
     if st.button("API"): 
         import requests
-        key = "fe40503da0ad437aac740756261909" 
+        key = st.secrets.get("weather_api_key")
         city = "Manama"
         url = f"https://api.weatherapi.com/v1/current.json?key={key}&q={city}"
         data = requests.get(url).json()
