@@ -3,16 +3,12 @@ a streamlit app for logging, exploring, and analyzing weather observation with u
 
 
 ## option ##
-1.Record a new weather observation.
- in option 1 you write manually date,time, temperature, weather condition, humidity, and wind speed to the csv dataset.
-2.view weather statistics.
- in option 2 view the average,max,and min temperature also, show the most commonly recorded weather condition.
-3.search observations by data.
- in option 3 look up temperature and wind speed for a specific date.
-4.view all observations.
- in option 4 view the full historical dataset in a table.
+1.Record a new weather observation.-->in option 1 you write manually date,time, temperature, weather condition, humidity, and wind speed to the csv dataset.
+2.view weather statistics.--> in option 2 view the average,max,and min temperature also, show the most commonly recorded weather condition.
+3.search observations by data.-->in option 3 look up temperature and wind speed for a specific date.
+4.view all observations.--> in option 4 view the full historical dataset in a table.
 5.stretch goals.
- tools:
+
  q1: shows the line chart.
  q2:filter observations by month or season.
  q3:prediction based on the last24 reccorded hours.
