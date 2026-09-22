@@ -33,8 +33,6 @@ Temp_C: Temperature in C
 Weather: weather condition (text)
 Rel Hum_%: relative humidity (%)
 Wind Speed_km/h: wind speed km/h
-
-### csv file ###
 Date/Time: time and date observation in .csv
 
 ### streamlit app ###
